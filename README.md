@@ -69,6 +69,7 @@ This isn't another "no-code" tool for drag&drop amateurs. Nor a complex framewor
 - [AutoForm](#5-autoform) - Forms without logic duplication
 - [AI Integration](#6-ai-as-flow-step) - AI as native part of applications
 - [Marketplace](#7-marketplace) - Living memory of the platform
+- [Unified Data](#8-unified-data) - One hook for all data strategies
 
 ---
 
@@ -134,6 +135,7 @@ steps:
 - [AutoForm](#5-autoform) - Forms without logic duplication
 - [AI Integration](#6-ai-as-flow-step) - AI as native part of applications
 - [Marketplace](#7-marketplace) - Living memory of platform with upstream connectivity
+- [Unified Data](#8-unified-data) - One hook for all data strategies
 
 
 ### 1. Template Language
@@ -387,6 +389,38 @@ steps:
 - **Monetization ready** - publish and earn from your components
 - **Private marketplace** - company components stay internal
 - **Living memory** - marketplace is long-term memory and skills of entire platform
+
+### 8. Unified Data
+because React hooks vs fetch vs local state is chaos
+
+**Problem:** In the frontend world you have dozens of ways to work with data - fetch, React Query, Zustand, Redux, localStorage, sessionStorage, IndexedDB. Each approach has different APIs, different rules, different behavior. Developer must decide: where to store data, how to synchronize it, when to revalidate.
+
+**Our solution:** One `useData()` hook solves everything. Based on schema definition it automatically knows which strategy to use, how to cache data, when to synchronize with backend.
+
+```typescript
+// One hook handles everything - cache, validation, types, revalidation
+const users = useData('users.getAll')
+const userDraft = useData('users.detail', { 
+  id: '123', 
+  fork: 'editUser' // draft mode automatically
+})
+
+// Schema defines behavior:
+data users {
+  getAll(SYNC pageable) {    // → local database + sync
+    output User[]
+  }
+}
+```
+
+**Why it's cool:**
+- **Zero configuration** - developer just calls `useData('query')`, schema handles the rest
+- **Multi-strategy** - CACHE, SYNC, LOCAL, STREAM in one API
+- **Auto-typing** - TypeScript types generate directly from schema
+- **Draft mode** - fork data for safe editing without affecting original
+- **Smart merging** - when you save draft, safely merges according to permissions
+- **Offline-first** - SYNC strategy enables fully offline applications
+- **Real-time ready** - STREAM strategy for live data without extra setup
 
 ---
 
