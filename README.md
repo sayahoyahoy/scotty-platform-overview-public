@@ -60,6 +60,7 @@ This isn't another "no-code" tool for drag&drop amateurs. Nor a complex framewor
 - [Technical Solution](#️-what-we-had-to-build-and-why) - Frontend + Backend meta framework
 - [AI Architecture](#-why-ai-first-architecture) - Why AI works differently than elsewhere  
 - [Practical Workflow](#-how-it-works-in-practice) - Concrete use cases
+- [Platform Features](#scotty-platform-features) - Complete feature overview
 
 **Technical details:**
 - [Template Language](#1-template-language) - Declarative syntax for creators
