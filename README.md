@@ -14,6 +14,21 @@
 - 🏪 Marketplace for everything: UI, logic, AI, workflows, instructions
 - 🔒 Enterprise security by default
 
+## Core Philosophy
+We spent years building infrastructure where:
+
+- Everything is instantly live - Save a change, it's online. No build process.
+- Schema drives everything - One source of truth for frontend, backend, permissions, and AI
+- AI agents are first-class developers - They use the same tools as humans
+- Software evolves, not deploys - Continuous micro-experiments with automatic optimization
+
+## The Future We're Building
+Imagine applications that improve themselves while you sleep. Where AI agents run thousands of experiments, finding the optimal user experience for each segment. Where the boundary between development and operation disappears, replaced by continuous evolution.
+
+This isn't about replacing developers - it's about amplifying human creativity by removing friction and enabling software to adapt at the speed of thought.
+
+Welcome to the future of software development.
+
 ## Key Innovations
 
 🚀 **Instant Everything**  
@@ -284,7 +299,7 @@ Current AI tools generate code as black boxes. You write a prompt, get 5000 line
 - **Atomic changes** - AI doesn't do "rewrite entire file", but "add style", "change parameter"
 - **Structured understanding** - agent understands every component, knows what it does and why
 - **Same tools as humans** - AI uses same APIs as developers
-- **Full audit trail** - every change is logged and revertovatelná
+- **Full audit trail** - every change is logged and revertible
 
 **Example AI workflow:**
 ```yaml
@@ -331,7 +346,7 @@ steps:
 - **Tool calling** - AI can call your own functions with permissions
 - **Context aware** - AI knows about your data, schema, users
 - **Atomic operations** - AI doesn't do "rewrite file", but "change parameter"
-- **Memory & audit** - every AI action is logged and revertovatelná
+- **Memory & audit** - every AI action is logged and revertible
 - **Custom agents** - you can make AI agents for your applications and for Scotty itself
 
 ### 7. Marketplace
