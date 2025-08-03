@@ -14,6 +14,23 @@
 - 🏪 Marketplace for everything: UI, logic, AI, workflows, instructions
 - 🔒 Enterprise security by default
 
+## Key Innovations
+
+🚀 **Instant Everything**  
+Every component, API, and change runs immediately on a URL. Branches, A/B tests, and deployments happen in real-time.
+
+🧬 **Schema as DNA**  
+A single schema definition generates database models, API validation, TypeScript types, UI forms, and AI tool definitions.
+
+🤖 **AI-Native Architecture**  
+AI agents aren't just code generators - they're orchestrators that can create, test, monitor, and evolve applications autonomously.
+
+🔒 **Enterprise Security by Default**  
+Field-level permissions, zero-trust architecture, and safe 3-way merge that never exposes unauthorized data.
+
+🎯 **Progressive Complexity**  
+Simple tasks require no configuration. Complex scenarios expose full control. The platform grows with your needs.
+
 ---
 
 ## 🚀 What is Scotty?
