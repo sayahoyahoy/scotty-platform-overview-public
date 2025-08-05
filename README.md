@@ -441,3 +441,5 @@ This is the future of software development. Not replacing developers, but transf
 ---
 
 *Welcome to Scotty - where software evolves at the speed of thought.*
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sayahoyahoy/scotty-platform-overview-public)
