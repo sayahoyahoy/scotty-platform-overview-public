@@ -28,6 +28,11 @@
   - [Upstream Connectivity](#upstream-connectivity)
 - [🎯 Use Cases](#-real-world-use-cases) - What you can build
 
+**Deep Dive & Next Steps**
+- [📚 Technical Deep Dives](#-technical-deep-dives) - Complete technical documentation
+- [🌟 Philosophy](#-philosophy-the-future-were-building) - Vision and future direction
+- [🤝 Join the Revolution](#-join-the-revolution) - Get started today
+
 ---
 
 ## 🎯 Executive Summary
