@@ -5,6 +5,20 @@
 > **Build agent-powered applications with intelligent UIs.**  
 > **Deploy instantly, improve continuously.**
 
+## 🤝 Join the Revolution
+
+**For Creators:** Start building your ideas today without learning to code.
+
+**For Developers:** Focus on innovation, not configuration.
+
+**For Enterprises:** Enable your entire team to build and iterate.
+
+**For AI Builders:** The perfect platform for agent-powered applications.
+
+---
+
+*Welcome to Scotty - where software evolves at the speed of thought.*
+
 ---
 
 ## 📍 Navigation
@@ -13,8 +27,9 @@
 - [🎯 Executive Summary](#-executive-summary) - What is Scotty and why it matters
 - [🚀 Quick Start Demo](#-quick-start-see-it-in-action) - 10-minute CRM example
 - [🤖 AI Agent Applications](#-why-scotty-excels-at-ai-agent-applications) - Perfect for vertical AI
+- [🌟 Philosophy](#-philosophy-the-future-were-building) - Vision and future direction
 - [🚦 Getting Started](#-getting-started) - Choose your path
-
+  
 **Core Concepts**
 - [🏗️ Architecture](#️-core-architecture-how-we-solved-fundamental-problems) - How we solved fundamental problems
   - [Frontend: Simplicity Over Complexity](#1-frontend-simplicity-over-complexity)
@@ -32,10 +47,6 @@
 
 **Deep Dive & Next Steps**
 - [📚 Technical Deep Dives](#-technical-deep-dives) - Complete technical documentation
-- [🌟 Philosophy](#-philosophy-the-future-were-building) - Vision and future direction
-- [🤝 Join the Revolution](#-join-the-revolution) - Get started today
-
----
 
 ## 🎯 Executive Summary
 
@@ -114,6 +125,31 @@ steps:
 ```
 
 The agent handles backend logic while users see real-time updates in a beautiful dashboard - all without writing traditional code.
+
+---
+
+## 🌟 Philosophy: The Future We're Building
+
+> ⚙️ ***Complexity cannot be eliminated, but it can be orchestrated.***
+
+Imagine applications that improve themselves while you sleep. Where AI agents run thousands of experiments, finding the optimal user experience for each segment. Where the boundary between development and operation disappears, replaced by continuous evolution.
+
+We're not building another no-code tool or framework. We're creating a platform where:
+
+- **Creativity matters more than implementation** - Focus on WHAT, not HOW
+- **Software evolves continuously** - Applications improve themselves
+- **AI amplifies human creativity** - Agents as colleagues, not replacements
+- **Knowledge compounds** - Every component makes the next one easier
+
+### The Vision
+
+**This is the future we're building:**
+- **Improve while you sleep** - AI runs experiments and deploys better versions
+- **Adapt to each user** - Personalized UX through continuous optimization
+- **Never break** - Safe merging and atomic changes ensure stability
+- **Share knowledge** - Components learn from usage across applications
+
+This is the future of software development. Not replacing developers, but transforming everyone into a creator.
 
 ---
 
@@ -385,7 +421,6 @@ Perfect for specialized agent applications:
 4. **Deploy with security** and compliance
 
 ---
-
 ## 📚 Technical Deep Dives
 
 For those who want to understand the internals:
@@ -402,44 +437,5 @@ For those who want to understand the internals:
 - **[3-Way Merge Algorithm](./raw/diff.md)** - Safe merging implementation
 
 ---
-
-## 🌟 Philosophy: The Future We're Building
-
-> ⚙️ ***Complexity cannot be eliminated, but it can be orchestrated.***
-
-Imagine applications that improve themselves while you sleep. Where AI agents run thousands of experiments, finding the optimal user experience for each segment. Where the boundary between development and operation disappears, replaced by continuous evolution.
-
-We're not building another no-code tool or framework. We're creating a platform where:
-
-- **Creativity matters more than implementation** - Focus on WHAT, not HOW
-- **Software evolves continuously** - Applications improve themselves
-- **AI amplifies human creativity** - Agents as colleagues, not replacements
-- **Knowledge compounds** - Every component makes the next one easier
-
-### The Vision
-
-**This is the future we're building:**
-- **Improve while you sleep** - AI runs experiments and deploys better versions
-- **Adapt to each user** - Personalized UX through continuous optimization
-- **Never break** - Safe merging and atomic changes ensure stability
-- **Share knowledge** - Components learn from usage across applications
-
-This is the future of software development. Not replacing developers, but transforming everyone into a creator.
-
----
-
-## 🤝 Join the Revolution
-
-**For Creators:** Start building your ideas today without learning to code.
-
-**For Developers:** Focus on innovation, not configuration.
-
-**For Enterprises:** Enable your entire team to build and iterate.
-
-**For AI Builders:** The perfect platform for agent-powered applications.
-
----
-
-*Welcome to Scotty - where software evolves at the speed of thought.*
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sayahoyahoy/scotty-platform-overview-public)
