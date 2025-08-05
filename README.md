@@ -150,6 +150,7 @@ user-dashboard
 - Vue 3 powers it internally (but that's invisible to you)
 
 → [Template Language Reference](./raw/template.md) - Complete syntax with slots and pattern matching
+
 → [Template AI Editor](./raw/template-ai-editor.md) - How AI makes atomic template changes
 
 ## 2. Backend: Orchestration Not Architecture
@@ -201,15 +202,23 @@ type User {
   createdAt DateTime   @default.now
 }
 
-// Automatically generates:
-// ✅ Database tables
-// ✅ API validation
-// ✅ TypeScript types
-// ✅ Form validation
-// ✅ Permission checks
-// ✅ AI tool definitions
+data users {
+  getAll(CACHE pageable) { output User[] }     // → Smart caching
+  edit(FORK validate) { output User }          // → Safe drafting
+  stream(REALTIME) { output User[] }           // → WebSocket connection
+}
+
 ```
+Automatically generates:
+- ✅ API validation
+- ✅ TypeScript types
+- ✅ Form validation
+- ✅ Permission checks
+- ✅ AI tool definitions
+
+
 → [Schema Language DSL](./raw/schema.md) - Define data models, permissions, and strategies
+
 → [Schema AI Editor](./raw/schema-ai-editor.md) - Programmatic API for AI schema modifications
 
 ---
