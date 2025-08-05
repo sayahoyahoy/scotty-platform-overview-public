@@ -1,7 +1,9 @@
 # Scotty Platform
 ## The AI-First Development Platform Where Software Evolves Autonomously
 
-> **Turn conversations into SaaS products. Build agent-powered applications with intelligent UIs. Deploy instantly, improve continuously.**
+> **Turn conversations into SaaS products.**  
+> **Build agent-powered applications with intelligent UIs.**  
+> **Deploy instantly, improve continuously.**
 
 ---
 
