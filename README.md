@@ -19,6 +19,8 @@
 
 *Welcome to Scotty - where software evolves at the speed of thought.*
 
+***[👉 Low-Code Platform](./low-code-platform.md)*** **- How we built Scotty for lower cognitive load**
+
 ---
 
 ## 📍 Navigation
