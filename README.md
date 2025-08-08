@@ -19,7 +19,7 @@
 
 *Welcome to Scotty - where software evolves at the speed of thought.*
 
-***[🧬  Reimagining the Evolution of SaaS Development](./evolution.md)*** **- From static apps to living, AI-driven organisms**
+***[🧬  Reimagining the Evolution of SaaS Development](./evolution.md)*** **- From static apps to living, AI-driven organisms**  
 ***[👉 Low-Code Platform](./low-code-platform.md)*** **- How we built Scotty for lower cognitive load**
 
 ---
