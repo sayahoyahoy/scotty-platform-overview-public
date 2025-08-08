@@ -124,6 +124,3 @@ Scotty is the first platform designed to operate *natively* in that world.
 **Summary:**
 Scotty is not “low-code” in the traditional sense. It’s a **self-aware, AI-operable SaaS runtime** where every part of the stack is addressable, swappable, and measurable — at the granularity of a single component or API endpoint. By fusing branching, discovery, and AI-driven orchestration into the core, it enables a style of product development that is **faster, safer, and more adaptive than anything the Git-deploy model can offer**.
 
----
-
-If you want, já ti k tomu můžu ještě udělat **vizuální schéma**, které ukáže, jak se varianty mixují v reálném čase mezi uživateli, aby to YC publikum hned pochopilo.
