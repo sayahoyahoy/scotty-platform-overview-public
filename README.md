@@ -245,8 +245,6 @@ type User {
 
 data users {
   getAll(CACHE pageable) { output User[] }     // → Smart caching
-  edit(FORK validate) { output User }          // → Safe drafting
-  stream(REALTIME) { output User[] }           // → WebSocket connection
 }
 
 ```
