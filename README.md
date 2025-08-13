@@ -5,21 +5,24 @@
 > **Build agent-powered applications with intelligent UIs.**  
 > **Deploy instantly, improve continuously.**
 
+***[🧬  Reimagining the Evolution of SaaS Development](./evolution.md)*** **- From static apps to living, AI-driven organisms**   
+click here 👆
+
 ## 🤝 Join the Revolution
 
 **For Creators:** Start building your ideas today without learning to code.
+
+**For AI Builders:** The perfect platform for agent-powered applications.
 
 **For Developers:** Focus on innovation, not configuration.
 
 **For Enterprises:** Enable your entire team to build and iterate.
 
-**For AI Builders:** The perfect platform for agent-powered applications.
 
 ---
 
 *Welcome to Scotty - where software evolves at the speed of thought.*
 
-***[🧬  Reimagining the Evolution of SaaS Development](./evolution.md)*** **- From static apps to living, AI-driven organisms**  
 ***[👉 Low-Code Platform](./low-code-platform.md)*** **- How we built Scotty for lower cognitive load**
 
 ---
